@@ -1,1 +1,1 @@
-# intrniz-web-development-responsive-landing-pg
+# intrniz-web devlopment internship
